@@ -1,0 +1,14 @@
+# Large dataset (>100MB rejected by GitHub)
+fashion-mnist_train.csv
+
+# Python & Jupyter
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+.venv/
+env/
+
+# OS files
+.DS_Store
+Thumbs.db
